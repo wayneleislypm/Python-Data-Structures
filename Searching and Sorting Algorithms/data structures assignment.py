@@ -1,14 +1,3 @@
-"""
-#r204565e Tanyaradzwa Makuwekuwe 30
-#r206536x Stallone    Chabvuta   20
-#r205055y Tinashe     Chirimuuta 20
-#r204547s Diana       Ranganai   20
-
-Disclaimer: We would like to note that some of the
-concepts we used only work with at least Python 3.8
-We really hope this will not be an inconvenience
-"""
-
 from array import array
 from _ctypes import PyObj_FromPtr
 from datetime import datetime
